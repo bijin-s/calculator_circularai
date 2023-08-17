@@ -1,23 +1,13 @@
-pip==23.2.1
-atomicwrites==1.4.0
-attrs @ file:///C:/b/abs_09s3y775ra/croot/attrs_1668696195628/work
-certifi @ file:///C:/b/abs_85o_6fm0se/croot/certifi_1671487778835/work/certifi
-colorama @ file:///C:/b/abs_a9ozq0l032/croot/colorama_1672387194846/work
-coverage @ file:///C:/ci/coverage_1645521121247/work
-flake8 @ file:///opt/conda/conda-bld/flake8_1648129545443/work
-flit_core @ file:///opt/conda/conda-bld/flit-core_1644941570762/work/source/flit_core
-importlib-metadata @ file:///C:/ci/importlib-metadata_1648562631189/work
-iniconfig @ file:///home/linux1/recipes/ci/iniconfig_1610983019677/work
-mccabe @ file:///opt/conda/conda-bld/mccabe_1644221741721/work
-packaging @ file:///C:/b/abs_cfsup8ur87/croot/packaging_1671697442297/work
-pluggy @ file:///C:/ci/pluggy_1648042781630/work
-py @ file:///opt/conda/conda-bld/py_1644396412707/work
-pycodestyle @ file:///tmp/build/80754af9/pycodestyle_1636635402688/work
-pyflakes @ file:///tmp/build/80754af9/pyflakes_1636644436481/work
-pytest==7.1.2
-pytest-cov @ file:///tmp/build/80754af9/pytest-cov_1637159997573/work
-toml @ file:///tmp/build/80754af9/toml_1616166611790/work
-tomli @ file:///C:/Windows/TEMP/abs_ac109f85-a7b3-4b4d-bcfd-52622eceddf0hy332ojo/croots/recipe/tomli_1657175513137/work
-typing_extensions @ file:///C:/b/abs_89eui86zuq/croot/typing_extensions_1669923792806/work
-wincertstore==0.2
-zipp @ file:///C:/b/abs_b9jfdr908q/croot/zipp_1672387552360/work
+attrs==22.2.0
+coverage==7.1.0
+exceptiongroup==1.1.0
+flake8==5.0.4
+iniconfig==2.0.0
+mccabe==0.7.0
+packaging==23.0
+pluggy==1.0.0
+pycodestyle==2.10.0
+pyflakes==3.0.1
+pytest==7.2.1
+pytest-cov==4.0.0
+tomli==2.0.1
