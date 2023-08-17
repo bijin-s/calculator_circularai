@@ -1,3 +1,4 @@
+pip==23.2.1
 atomicwrites==1.4.0
 attrs @ file:///C:/b/abs_09s3y775ra/croot/attrs_1668696195628/work
 certifi @ file:///C:/b/abs_85o_6fm0se/croot/certifi_1671487778835/work/certifi
